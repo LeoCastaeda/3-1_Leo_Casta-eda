@@ -1,0 +1,4 @@
+Este es otro archivo de texto de ejemplo.
+Tiene algunas líneas diferentes.
+Esta es la segunda línea del nuevo archivo.
+Aquí está la cuarta línea en este ejemplo.
