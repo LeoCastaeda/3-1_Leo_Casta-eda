@@ -79,3 +79,32 @@ Para trabajar con los ejercicios, sigue estos pasos:
 
    ```sh
    git clone https://github.com/LeoCastaeda/3-1_Leo_Casta-eda.git
+
+## Instala las dependencias
+
+Algunos de los retos requieren la instación de los siguientes paquetes:
+
+```npm install bl```
+
+
+```npm install through2-map```
+
+
+```npm i --save-dev @types/through2-map```
+
+## Ejecución de Ejercicios
+
+Cada ejercicio se encuentra en su propio archivo dentro del directorio dist. Puedes ejecutar los ejercicios utilizando Node.js desde la línea de comandos. Por ejemplo:
+
+```node dist/time-server.js 3000```
+
+## Verificación de Ejercicios
+
+Para verificar si tus soluciones cumplen con los requisitos esperados, 
+utiliza el comando learnyounode:
+
+```learnyounode verify dist/ejercicio.js```
+
+Reemplaza ejercicio.js con el nombre del archivo del ejercicio que deseas verificar.
+
+
