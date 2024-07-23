@@ -2,6 +2,14 @@
 
 Este proyecto es una colección de ejercicios prácticos para aprender Node.js, basado en el curso interactivo "Learn You the Node.js for Much Win!" de [Nodeschool](https://nodeschool.io/). Cada ejercicio cubre aspectos fundamentales de Node.js, desde la manipulación de archivos hasta la creación de servidores HTTP.
 
+Para este Sprint, será necesario tener instalado learnyounode.
+
+Puedes instalar el programa Learnyounode, desde la consola o terminal escribiendo:
+
+```npm install -g learnyounode```
+
+para acceder a la pantalla principal ingresaremos desde la terminal
+
 ## Descripción del Proyecto
 
 El proyecto contiene 13 ejercicios que abarcan una variedad de conceptos de Node.js. Aquí tienes un resumen de cada uno:
@@ -82,7 +90,7 @@ Para trabajar con los ejercicios, sigue estos pasos:
 
 ## Instala las dependencias
 
-Algunos de los retos requieren la instación de los siguientes paquetes:
+Algunos de los ejercicios requieren la instación de los siguientes paquetes:
 
 ```npm install bl```
 
